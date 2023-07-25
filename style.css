@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: #f6f8fa;
+}
+.navbar
+{
+    background-color: #ffebcd;
+    height: 40px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+.phone
+{
+    text-decoration: none;
+    color: black;
+}
+.icp-6
+{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.navbar2
+{
+    height: 62px;
+    background-color: skyblue;
+    display: flex;
+}
+.logo1-main
+{
+    display: inline-block;
+    display: flex;
+    margin-left: 110px;
+}
+.logo1
+{
+    margin-top: 10px;
+    height: 38px;
+}
+.logo-name
+{
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left:4px ;
+}
+.links
+{
+    display: inline-block;
+    margin-left: 162px;
+    margin-top: 20px;
+    font-family:Arial, Helvetica, sans-serif; 
+}
+.link
+{
+    text-decoration: none;
+    margin-left: 20px;
+    
+}
