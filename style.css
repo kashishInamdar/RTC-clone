@@ -24,12 +24,13 @@ body
 .icp-6
 {
     font-size: 25px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .navbar2
 {
     height: 62px;
-    background-color: skyblue;
+    background-color:#ffffff;
     display: flex;
 }
 .logo1-main
@@ -61,5 +62,170 @@ body
 {
     text-decoration: none;
     margin-left: 20px;
+}
+.img-team
+{
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    left: 120px;
+    height: 400px;
+    width: 500px;
+    margin-left:0px ;
+}
+.main-contain
+{
+    height: 400px;
+    display: flex;
     
 }
+.main-con-img
+{
+    width: 800px;
+    display:inline-block;
+    
+}
+.main-con
+{
+    width: 700px;
+    margin-top: 50px;
+    margin-right: 70px;
+}
+.head1
+{
+    font-size: 45px;
+}
+.aim
+{
+    font-size: 25px;
+    color: #8a8a5c;
+   
+}
+.btn-ExCourse
+{
+    border: none;
+    margin-top: 25px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 19px;
+    width: 180px;
+    background-color: black;
+    color: #f6f8fa;
+}
+.call
+{
+   color: black;
+   background-color: #fbbc05;
+   font-size: 19px;
+    width: 130px;
+    font-weight: bold;
+}
+.unique
+{
+    font-weight: 300;
+    color: #4285f4;
+    font-size: 30px;
+}
+.learn
+{
+    color: black;
+}
+.main-features
+{
+display: flex;
+}
+.features
+{
+    display: inline-block;
+    margin-left: 100px;
+    width: 800px;
+}
+.unique-card1
+{
+    width: 340px;
+    display: inline-block;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid #e2e4e8;
+    box-shadow: 1 0 2 5 #787a80;
+    padding: 10px;
+    vertical-align: top;
+}
+.set-img
+{
+    height: 46px;
+    display: inline-block;
+    width: auto;
+}
+.Recorded-card
+{
+    margin-bottom: 80px;
+}
+.main-courses-card
+{
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.courses-card
+{
+    width: 360px;
+    height: 450px;
+    display: inline-block;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid #e2e4e8;
+    box-shadow: 1 0 2 5 #787a80;
+    padding: 6px;
+    vertical-align: top;
+}
+.card-img
+{
+    width: 360px;
+    border-radius: 5px 5px 0 0;
+}
+.courses-name
+{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.courses-info
+{
+    margin: 5px;
+}
+.courses-p
+{
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    height: 40px;
+}
+.img-calendar
+{
+    height: 30px;
+}
+.StartingDate
+{
+    position: relative;
+    top:-10px ;
+    font-size: 17px;
+}
+.price
+{
+    position: relative;
+    left: 90px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    border-bottom: 3px double #27ae60;
+    width: 180px;
+}
+.c-cards
+{
+    padding-left: 77px;
+}
+
+
